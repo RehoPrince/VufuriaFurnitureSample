@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47fef6ec0df5fe945a52e447984374a0, type: 3}
+  m_Name: Triple Sofa
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 5655096314256277731, guid: 938655f469f78e94487b363a13b156b7, type: 3}
+  title: Triple Sofa
+  description: A triple Sofa perfect for the happy family
