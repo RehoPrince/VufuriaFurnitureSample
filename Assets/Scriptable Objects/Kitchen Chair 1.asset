@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47fef6ec0df5fe945a52e447984374a0, type: 3}
+  m_Name: Kitchen Chair 1
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 2850656925141776378, guid: 0e7b6825d30901c44b65f86582e5fd02, type: 3}
+  title: Kitchen Chair 1
+  description: A simple and comfortable kitchen chair
