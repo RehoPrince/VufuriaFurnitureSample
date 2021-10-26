@@ -58,3 +58,8 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+# Default Folders associated with Unity URP template
+/[Aa]ssets/TutorialInfo*
+/[Aa]ssets/ExampleAssets/
+/[Aa]ssets/Template/
+
